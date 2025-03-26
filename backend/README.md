@@ -27,6 +27,8 @@ USER_ADM = <Nombre Admin>
 PASS_ADM = <Password>
 SESSION_TOKEN = <TOKEN>
 API_BASE_URL = <API URL>
+DB_CONNECTION_STRING=mongodb+srv://robleAustral:FbPLLx7fk9fbdSrG@cluster0.9rorw.mongodb.net/?tls=true
+DB_NAME=roble_db
 ```
 
 ## Ejecución
