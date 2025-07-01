@@ -45,7 +45,8 @@ Plataforma web Roble Austral para el curso INFO282
 ## Diagramas UML
 Los diagramas realizados estan en la carpeta 'documentacion', los que sirven para para comunicar la arquitectura son de secuencia y componentes.
 
-
+## Video presentacion CMMI + Test de Joel
+- https://drive.google.com/drive/folders/1F7XjmgHiqmOEbz7S7TEgFGQwyeteMrG3?usp=sharing
 
 
 
